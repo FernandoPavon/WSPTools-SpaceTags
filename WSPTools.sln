@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSPTools", "WSPTools.csproj", "{38FC50EF-4226-496F-96BE-0045809E016D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug2020|Any CPU = Debug2020|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Release2020|Any CPU = Release2020|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38FC50EF-4226-496F-96BE-0045809E016D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38FC50EF-4226-496F-96BE-0045809E016D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38FC50EF-4226-496F-96BE-0045809E016D}.Debug2020|Any CPU.ActiveCfg = Debug2020|Any CPU
+		{38FC50EF-4226-496F-96BE-0045809E016D}.Debug2020|Any CPU.Build.0 = Debug2020|Any CPU
+		{38FC50EF-4226-496F-96BE-0045809E016D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38FC50EF-4226-496F-96BE-0045809E016D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38FC50EF-4226-496F-96BE-0045809E016D}.Release2020|Any CPU.ActiveCfg = Release2020|Any CPU
+		{38FC50EF-4226-496F-96BE-0045809E016D}.Release2020|Any CPU.Build.0 = Release2020|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F2268B2-192B-47A9-A292-7ED3D699F5EE}
+	EndGlobalSection
+EndGlobal

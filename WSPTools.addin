@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>WSP Tools</Name>
+    <Assembly>WSPTools.dll</Assembly>
+    <FullClassName>WSPTools.App</FullClassName>
+    <ClientId>1E101F44-3ECE-4181-A7D1-B6311886DE7D</ClientId>
+    <VendorId>Autodesk</VendorId>
+    <VendorDescription>EMEA Consulting</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+
